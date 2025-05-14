@@ -28,6 +28,7 @@ function fibbonacci(n) {
 }
 
 const data = fibbonacci(166690);
+// Big oh = O(n)
 console.log("The result is ", data);
 
 // More accurate and efficient solution
@@ -38,3 +39,4 @@ console.log("The result is ", data);
 //   }
 //   return fibb;
 // }
+// Big oh = O(n)

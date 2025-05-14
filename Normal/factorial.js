@@ -13,3 +13,5 @@ function factorial(n) {
 let num = 2;
 const result = factorial(num);
 console.log(`The factorial of ${num} :`, result);
+
+// Big oh = O(n)
